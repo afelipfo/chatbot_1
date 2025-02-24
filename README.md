@@ -43,8 +43,8 @@ your_project/
 
 To start the chatbot, run:
 
-```bash
-chainlit main.py
+```
+chainlit run main.py
 ```
 
 The chatbot will respond to insurance-related queries, web searches, and policy optimizations based on user input.
