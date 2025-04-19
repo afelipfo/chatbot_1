@@ -71,9 +71,3 @@ For the best results, use clear, specific questions that align with the chatbot'
 
 - **Database Path**: The path to the database storing embeddings can be updated in the `.env` file using the `DB_PATH` variable.
 - **API Key**: Add the relevant API key for external tools in the `.env` file.
-
-## License
-
-This project is licensed under the MIT License.
-
-
